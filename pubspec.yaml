@@ -27,6 +27,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
   flutter_staggered_grid_view: ^0.4.1 # se agrego esta libreria para el grid de las imagenes 
+  image_downloader: ^0.30.0 # se agrego esta libreria para la descargar de la imagen
 
 dev_dependencies:
   flutter_test:

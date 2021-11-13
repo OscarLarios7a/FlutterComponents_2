@@ -74,6 +74,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "image_downloader",
+      "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/image_downloader-0.30.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "intl",
       "rootUri": "file:///C:/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0",
       "packageUri": "lib/",
@@ -158,7 +164,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2021-11-12T18:04:03.718926Z",
+  "generated": "2021-11-13T18:29:50.417601Z",
   "generator": "pub",
   "generatorVersion": "2.14.3"
 }
